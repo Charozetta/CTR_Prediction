@@ -1,5 +1,8 @@
 # CTR Prediction and Probability Calibration for Advertising Auction
 
+<img width="550" height="318" alt="image" src="https://github.com/user-attachments/assets/6a61b8c0-ef68-4f86-ae2a-5e3fe428a612" />
+
+
 ## Project Description
 
 This project focuses on building a binary classification model to predict the Click-Through Rate (CTR) for advertising banners within a Real-Time Bidding (RTB) advertising auction for **Advandex**. The key objective is not only accurate CTR prediction but also the **calibration** of predicted probabilities to align as closely as possible with actual click frequencies. This is critically important because the auction winner is determined by the formula `Bid × Predicted CTR`.
